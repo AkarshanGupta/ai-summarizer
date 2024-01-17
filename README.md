@@ -24,4 +24,4 @@ Experience the synergy of these technologies in a unified and efficient web appl
 * Accessibility: Prioritize accessibility features to ensure that the platform is inclusive and usable by individuals with diverse needs and abilities.
 
 # Thoughts 
-* Soon will get updated..
+
