@@ -23,5 +23,11 @@ Experience the synergy of these technologies in a unified and efficient web appl
 * Integration with Cutting-Edge Technologies: Utilize state-of-the-art technologies like Redux Toolkit, Vite, and Tailwind CSS to ensure optimal performance, responsiveness, and a modern design.
 * Accessibility: Prioritize accessibility features to ensure that the platform is inclusive and usable by individuals with diverse needs and abilities.
 
-# Thoughts 
+# Setup
+* To run this project you have to start by writing the **npm install** command and run , it will install all dependencies
+* And after installing everything to start the project **npm run dev**
+* You have to create a .env file in which the **API KEY** will be there **"VITE_RAPID_API_ARTICLE_KEY = <Your api key>"**
+* the .env file should be created outside the src folder where other files are there.
+* You can get your api key from these link [API Link](https://rapidapi.com/restyler/api/article-extractor-and-summarizer).Subscribe it based on your requiremennts there will be code snippets ppart there will be
+  your api key and place it in the .env file
 
