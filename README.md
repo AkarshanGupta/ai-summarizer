@@ -26,7 +26,7 @@ Experience the synergy of these technologies in a unified and efficient web appl
 # Setup
 * To run this project you have to start by writing the **npm install** command and run , it will install all dependencies
 * And after installing everything to start the project **npm run dev**
-* You have to create a .env file in which the **API KEY** will be there **"VITE_RAPID_API_ARTICLE_KEY = <Your api key>"**
+* You have to create a .env file in which the **API KEY** will be there **"VITE_RAPID_API_ARTICLE_KEY = Your api key"**
 * the .env file should be created outside the src folder where other files are there.
 * You can get your api key from these link [API Link](https://rapidapi.com/restyler/api/article-extractor-and-summarizer).Subscribe it based on your requiremennts there will be code snippets ppart there will be
   your api key and place it in the .env file
